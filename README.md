@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🖥️ **.Net | Pyhton**
+### Linguagens utilizadas
+![Fil's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darthfil&layout=compact&theme=dracula)
